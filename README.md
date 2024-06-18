@@ -1,5 +1,3 @@
-# Water-Quality-Monitoring-System
-
 # Water Quality Monitoring System
 
 This project is a Flask-based web application that allows users to predict the quality of water samples based on three important parameters: pH, turbidity, and temperature. The application also includes user authentication functionality, allowing users to register and log in to access the water quality prediction feature.
